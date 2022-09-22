@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mads</h1>
-<h3 align="center">A Student in IT Infrastructure</h3>
+<h3 align="center">Student in IT Infrastructure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madsmmp&label=Profile%20views&color=0e75b6&style=flat" alt="madsmmp" /> </p>
 
 - 🔭 I’m currently working on **DivineRP**
-
-- 🌱 I’m currently learning **Lua**
 
 - 📫 How to reach me **Madsmannerup@gmail.com**
 
